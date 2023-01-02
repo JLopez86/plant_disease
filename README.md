@@ -5,7 +5,7 @@ Desarrollo de un modelo clasificador de enfermedades en plantas (Healthy, Rust, 
 ## Conjunto de datos
 El conjunto de datos a utilizar se encuentra clasificada con tres etiquetas: <u>Healthy</u> (saludable), <u>Powdery</u> (polvorienta) y <u>Rust</u> (oxidada) que hacen referencia a las condiciones de la planta. 
 <br>
-<table border="5">
+<table border="0">
 <thead>
 <tr>
 <td><b>Healthy</b> / Saludable</td>
