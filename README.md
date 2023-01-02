@@ -32,7 +32,7 @@ Hay un total de **1532** imágenes divididas en conjuntos de entrenamiento, prue
 El conjunto de datos se encuentra disponible en la plataforma [Kaggle](https://www.kaggle.com/) y es posible acceder desde el siguiente [enlace](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset).
 ## Colab
 Es posible acceder a los distintos archivos de colab desde los siguientes enlaces: [Introducción](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/01_Introduccion.ipynb)
-| [02 - Conjunto de Datos](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/01_Introduccion.ipynb)
-| [03 - Redes Neuronales Convolucionales](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/01_Introduccion.ipynb)
-| [04 - Transferencia de Aprendizaje](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/01_Introduccion.ipynb)
-| [Conclusión](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/01_Introduccion.ipynb)
+| [02 - Conjunto de Datos](https://colab.research.google.com/github/JLopez86/fastbook/blob/master/02_Conjunto_de_datos.ipynb)
+| [03 - Redes Neuronales Convolucionales](https://colab.research.google.com/github/JLopez86/fastbook/blob/master/03_Red_Neuronal_Convolucional.ipynb)
+| [04 - Transferencia de Aprendizaje](https://colab.research.google.com/github/JLopez86/fastbook/blob/master/04_Transfer_Learning.ipynb)
+| [Conclusión](https://#)
