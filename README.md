@@ -3,7 +3,7 @@ Desarrollo de un modelo clasificador de enfermedades en plantas (Healthy, Rust, 
 ## Introducción
 ...
 ## Conjunto de datos
-El conjunto de datos a utilizar contiene tres etiquetas: <u>Healthy</u> (saludable), <u>Powdery</u> (polvorienta) y <u>Rust</u> (oxidada) que hacen referencia a las condiciones de la planta. 
+El conjunto de datos a utilizar se encuentra clasificada con tres etiquetas: <u>Healthy</u> (saludable), <u>Powdery</u> (polvorienta) y <u>Rust</u> (oxidada) que hacen referencia a las condiciones de la planta. 
 <br>
 <table border="5">
 <thead>
@@ -22,14 +22,14 @@ El conjunto de datos a utilizar contiene tres etiquetas: <u>Healthy</u> (saludab
 </tbody>
 </table><br>
 
-**Total de imágenes del conjunto de datos**
+**Cantidad de imágenes del conjunto de datos**
 
 Hay un total de **1532** imágenes divididas en conjuntos de entrenamiento, prueba y validación. 
 
-  **1472** imagenes para entrenamiento y validación. <br>
-  **60** imágenes desconocidas por el modelo.
+  - **1472** imagenes para entrenamiento y validación. <br>
+  - **60** imágenes desconocidas por el modelo.
 
-El conjunto de datos se encuentra disponible en el siguiente [enlace](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset)
+El conjunto de datos se encuentra disponible en la plataforma [Kaggle](https://www.kaggle.com/) y es posible acceder desde el siguiente [enlace](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset).
 ## Colab
 Es posible acceder a los distintos archivos de colab desde los siguientes enlaces: [Introducción](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/01_Introduccion.ipynb)
 | [02 - Conjunto de Datos](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/01_Introduccion.ipynb)
