@@ -1,7 +1,7 @@
 # Clasificación de enfermedades en platas
 Desarrollo de un modelo clasificador de enfermedades en plantas (Healthy, Rust, Powdery) con aprendizaje profundo a través de redes neuronales convolucionales y transferencia de aprendizaje.
 ## Introducción
-...
+El sector de producción de alimentos y más específicamente el de la agricultura puede verse afectado por la aparición de diversas enfermedades o anomalías en los cultivos que ponen en gran riesgo la seguridad alimentaria de la población mundial. Por lo tanto, la detección y clasificación con precisión de las anomalías presentes en las hojas de los cultivos es altamente necesaria para la toma de decisión en tiempo oportuno.  El objetivo central del presente reporte técnico fue modelar un algoritmo de aprendizaje profundo basado en redes neuronales convolucionales para la detección de enfermedades en hojas de plantas. La metodología empleada fue el desarrollo experimental de diversos modelos de aprendizaje profundo para en primer lugar, entrenar el modelo con los hiperparametros seleccionados como la cantidad de iteraciones, taza de aprendizaje, optimizadores, función de costos y la utilización de técnicas de transformación de datos y aprendizaje transferido sobre el conjunto de datos de enfermedades de plantas previamente recabados y etiquetados. Finalmente se expuso los resultados obtenidos en la predicción de imágenes de validación, constatándose que los mejores resultados fueron obtenidos por los modelos que utilizaron técnicas de aprendizaje transferido.
 ## Conjunto de datos
 El conjunto de datos a utilizar se encuentra clasificada con tres etiquetas: <u>Healthy</u> (saludable), <u>Powdery</u> (polvorienta) y <u>Rust</u> (oxidada) que hacen referencia a las condiciones de la planta. 
 <br>
