@@ -35,4 +35,4 @@ Es posible acceder a los distintos archivos de colab desde los siguientes enlace
 | [02 - Conjunto de Datos](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/02_Conjunto_de_datos.ipynb#scrollTo=g1FxZc-noIhN)
 | [03 - Redes Neuronales Convolucionales](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/03_Red_Neuronal_Convolucional.ipynb)
 | [04 - Transferencia de Aprendizaje](https://colab.research.google.com/github/JLopez86/plant_disease/blob/main/04_Transfer_Learning.ipynb)
-| [Conclusión](https://#)
+
